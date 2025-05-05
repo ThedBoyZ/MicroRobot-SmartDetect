@@ -1,0 +1,8 @@
+1 | open terminal
+
+(check IP: hostname -I)
+2 | type "ssh student@192.168.137.10 / ssh knn-pi-v1@192.168.247.102" 
+  | type "ssh stduent2@10.66.5.10
+password cekmitl61
+
+3 | sudo reboot
